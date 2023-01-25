@@ -1,5 +1,5 @@
 <?php
-function plus($a, $b){
+function plus($a, $b) {
     echo $a + $b;
 }
  
